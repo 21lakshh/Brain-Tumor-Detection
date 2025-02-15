@@ -42,7 +42,7 @@ We utilize deep learning with a pre-trained EfficientNetB1 model to achieve high
 ## Results
 Below are some Grad-CAM visualizations highlighting the tumor areas in the MRI scans:
 
-![Grad-CAM Example](/GradCAM/image1)
+![Grad-CAM Example](/GradCAM/image1.png)
 
 ## Future Improvements
 - Experiment with other architectures (e.g., Vision Transformers, ResNet variants).
